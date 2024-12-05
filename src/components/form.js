@@ -23,7 +23,7 @@ export default function BookForm() {
         ${Button({
           type: "submit",
           additionalClasses:
-            "w-full bg-indigo-500 text-white px-4 py-2 hover:bg-indigo-600",
+            "w-full bg-sky-800 text-white px-4 py-2 hover:bg-sky-700",
           text: "Add Book",
         })}
       </form>
